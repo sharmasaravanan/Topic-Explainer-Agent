@@ -205,16 +205,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LangChain**: For tool integrations and utilities
 - **Wikipedia**: For providing free educational content
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) page
-2. Review the [Discussions](../../discussions) section
-3. Contact the maintainers
 
 ---
 
-**Made with ❤️ by the Chitti Development Team**
+**Made with ❤️ by the Sharma Saravanan**
 
 *Chitti: Making knowledge accessible through the perfect medium.*
